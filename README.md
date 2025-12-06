@@ -3,6 +3,10 @@ End to end demo of MLOPS (installing ML model on AWS)
 
 Code githublink (by Vikash) - https://github.com/vikashishere/YT-MLops-Proj1
 
+Personal Access Token (PAT) of Github- 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
+
+
+
 Mongodb:
 
 username - pushkarmsathe_db_user
